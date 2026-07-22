@@ -1,26 +1,25 @@
-# G5 Consultants
+# C5 Consultants
 
-Premium static website for G5 Consultants, a Tampa Bay armed security and executive protection company.
+Premium static website for C5 Consultants, a Tampa Bay armed security and executive protection company. The visual emblem uses the C5 Security shield while the company name remains C5 Consultants.
 
 ## Live site
-
-After GitHub Pages is enabled with **GitHub Actions** as the source:
 
 `https://daa25.github.io/C5-Consultants/`
 
 ## Included
 
 - Responsive premium Tampa Bay design
-- G5 logo, favicon and social-sharing image
+- C5 Security shield logo, favicon and social-sharing image
+- C5 Consultants website branding and SEO
 - Service, process, local authority and contact sections
 - Mobile navigation and fixed conversion bar
-- SEO metadata and SecurityService structured data
+- SecurityService structured data
 - Automated GitHub Pages deployment
 
 ## Contact configuration
 
-The quote form currently prepares an email to `info@g5consultants.com`. Replace that address in `script.js` if the official business email is different. Add the confirmed business telephone number before changing any button to a `tel:` link.
+The quote form currently prepares an email to `info@c5consultants.com`. Replace that address in `script.js` if the official business email is different. Add the confirmed business telephone number before changing any button to a `tel:` link.
 
 ## Deployment
 
-Open **Settings → Pages** and set **Source** to **GitHub Actions**. Every push to `main` will then deploy automatically.
+GitHub Pages is configured through GitHub Actions. Every push to `main` deploys automatically.
