@@ -1,0 +1,1 @@
+The website uses the official C5 Security logo supplied by the client.
