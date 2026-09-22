@@ -18,7 +18,7 @@ Premium static website for C5 Consultants, a Tampa Bay armed security and execut
 
 ## Contact configuration
 
-The quote form currently prepares an email to `info@c5consultants.com`. Replace that address in `script.js` if the official business email is different. Add the confirmed business telephone number before changing any button to a `tel:` link.
+All contact, employment, and event inquiry links use `admin@c5tampasecurity.com`. The church appointment form in `church-security.html` prepares an email to that same address in the visitor's email app; the visitor must send the draft. There is no server-side form delivery service. Contact destinations are configured in `index.html`, `event-security.html`, and `church-security.html`.
 
 ## Deployment
 
